@@ -1,0 +1,13 @@
+C:\Users\asoon\source\repos\Подготовка\Подготовка\bin\Debug\netcoreapp3.1\Подготовка.exe
+C:\Users\asoon\source\repos\Подготовка\Подготовка\bin\Debug\netcoreapp3.1\Подготовка.deps.json
+C:\Users\asoon\source\repos\Подготовка\Подготовка\bin\Debug\netcoreapp3.1\Подготовка.runtimeconfig.json
+C:\Users\asoon\source\repos\Подготовка\Подготовка\bin\Debug\netcoreapp3.1\Подготовка.runtimeconfig.dev.json
+C:\Users\asoon\source\repos\Подготовка\Подготовка\bin\Debug\netcoreapp3.1\Подготовка.dll
+C:\Users\asoon\source\repos\Подготовка\Подготовка\bin\Debug\netcoreapp3.1\Подготовка.pdb
+C:\Users\asoon\source\repos\Подготовка\Подготовка\obj\Debug\netcoreapp3.1\Подготовка.csprojAssemblyReference.cache
+C:\Users\asoon\source\repos\Подготовка\Подготовка\obj\Debug\netcoreapp3.1\Подготовка.AssemblyInfoInputs.cache
+C:\Users\asoon\source\repos\Подготовка\Подготовка\obj\Debug\netcoreapp3.1\Подготовка.AssemblyInfo.cs
+C:\Users\asoon\source\repos\Подготовка\Подготовка\obj\Debug\netcoreapp3.1\Подготовка.csproj.CoreCompileInputs.cache
+C:\Users\asoon\source\repos\Подготовка\Подготовка\obj\Debug\netcoreapp3.1\Подготовка.dll
+C:\Users\asoon\source\repos\Подготовка\Подготовка\obj\Debug\netcoreapp3.1\Подготовка.pdb
+C:\Users\asoon\source\repos\Подготовка\Подготовка\obj\Debug\netcoreapp3.1\Подготовка.genruntimeconfig.cache
